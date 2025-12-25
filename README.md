@@ -9,3 +9,4 @@ open source, easily customizable (you don't need to know code)
 - download `jogoraidmacro v#.#.#`
 - double click `macrov#.#.#.ahk`
 - follow instructions on tooltip
+## boom now you have thousands of chests and lumen by pressing f1
