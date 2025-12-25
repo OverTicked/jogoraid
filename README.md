@@ -1,12 +1,15 @@
-# jogoraid
+# jogoraid repo
 a lightweight macro to grind jogo raid. (faster than tinytask)
 
-open source, easily customizable (you don't need to know code)
+open source, so easy to customize that you don't have to know code
 
 ## installation and setting up
 
 - download [ahk v1.1](https://www.autohotkey.com/) → download → v1.1
-- download `jogoraidmacro v#.#.#`
-- double click `macrov#.#.#.ahk`
+- download `macrov#.#.#.ahk` file from [latest release](https://github.com/OverTicked/jogoraid/releases/latest) (at the bottom)
+- run `macrov#.#.#.ahk`
 - follow instructions on tooltip
-## boom now you have thousands of chests and lumen by pressing f1
+
+## something went wrong?
+- if you dont see a white box trailing your cursor, click [here](https://github.com/OverTicked/jogoraid/wiki)
+- any problems, click [here](https://github.com/OverTicked/jogoraid/wiki)
