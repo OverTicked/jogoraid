@@ -1,5 +1,11 @@
 # jogoraid
-MAKE SURE FUGA IS BOUND TO C, SHRINE IS IN SLOT 2 (editable)
-essentially a lightweight jogo macro. 
-prerequiste, 100% cr, 1 shot fuga, ahk v1.1 (https://www.autohotkey.com/ → download → v1.1)
-title attached to cursor (editable)
+a lightweight macro to grind jogo raid. (faster than tinytask)
+
+open source, easily customizable (you don't need to know code)
+
+## installation and setting up
+
+- download [ahk v1.1](https://www.autohotkey.com/) → download → v1.1
+- download `jogoraidmacro v#.#.#`
+- double click `macrov#.#.#.ahk`
+- follow instructions on tooltip
