@@ -3,6 +3,8 @@ a lightweight macro to grind jogo raid. (faster than tinytask)
 
 open source, so easy to customize that you don't have to know code
 
+don't forget to leave a star if this worked nicely
+
 ## installation and setting up
 
 - download [ahk v1.1](https://www.autohotkey.com/) → download → v1.1
